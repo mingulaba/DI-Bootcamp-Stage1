@@ -1,0 +1,19 @@
+.para {
+    color: red;
+}
+.small-para {
+    font-size: small;
+}
+#confirm-button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+div { 
+    color:green;
+}
+
+div.child {
+    color: red;
+    font-size: small;
+}
